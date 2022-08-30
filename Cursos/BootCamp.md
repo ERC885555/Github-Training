@@ -1,11 +1,11 @@
 ## Sessões do BootCamp
 ### _Prepare-se para a Jornada_
 #### Cursos
-* Conheça as Oportunidades da DIO
-* Seja Protagonista Neste Bootcamp
-* Introdução ao Desenvolvimento Moderno de Softwares
-* Introdução ao Git e ao GitHub
-* Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+* Conheça as Oportunidades da DIO *(Finalizado)*
+* Seja Protagonista Neste Bootcamp *(Finalizado)*
+* Introdução ao Desenvolvimento Moderno de Softwares *(Finalizado)*
+* Introdução ao Git e ao GitHub *(Finalizado)*
+* Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso *(Atual)*
 * Database Experience | Aula Inaugural
 
 ### _Bancos de Dados SQL_
