@@ -5,13 +5,13 @@
 * Seja Protagonista Neste Bootcamp *(Finalizado)*
 * Introdução ao Desenvolvimento Moderno de Softwares *(Finalizado)*
 * Introdução ao Git e ao GitHub *(Finalizado)*
-* Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso *(Atual)*
-* Database Experience | Aula Inaugural
+* Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso *(Finalizado)*
+* Database Experience | Aula Inaugural *(Finalizado)*
 
 ### _Bancos de Dados SQL_
 ### Cursos
-* Contextualização do Cenário na Área de Banco de Dados
-* Explorando a Aborsagem de SGBDs
+* Contextualização do Cenário na Área de Banco de Dados *(Finalizado)*
+* Explorando a Aborsagem de SGBDs *(Atual)*
 * Overview sobre Modelagem de Dados
 * Arquitetura de Banco de Dados
 * Fundamentos de Modelagem e Projeto de Banco de Dados
